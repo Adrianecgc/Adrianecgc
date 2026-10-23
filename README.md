@@ -24,7 +24,7 @@
 | [**InfoHansen**](https://github.com/Adrianecgc/InfoHansen-2.0) | Chatbot sobre hanseníase baseado no PCDT do Ministério da Saúde, com respostas avaliadas por profissionais de saúde |
 | [**Recepção que Não Dorme**](https://github.com/Adrianecgc/recepcao-que-nao-dorme) | Bot informativo para a UBS Salvação (PET-Saúde), com teste no Telegram e destino final no WhatsApp |
 | [**Comandas 2.0**](https://github.com/Adrianecgc/Comandas_2.0) | Sistema simples de comandas para pequenos empreendedores, funciona no computador, celular e tablet |
-| [**Software Vetorial GAR**](https://github.com/Adrianecgc/Software-Vetorial-GAR) | _adicione uma descrição curta_ |
+
 
 ##  Contato
 
